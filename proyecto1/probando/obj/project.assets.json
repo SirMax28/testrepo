@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/testrepo/probando/probando.csproj",
+      "projectUniqueName": "/workspaces/testrepo/proyecto1/probando/probando.csproj",
       "projectName": "probando",
-      "projectPath": "/workspaces/testrepo/probando/probando.csproj",
+      "projectPath": "/workspaces/testrepo/proyecto1/probando/probando.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/testrepo/probando/obj/",
+      "outputPath": "/workspaces/testrepo/proyecto1/probando/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"
